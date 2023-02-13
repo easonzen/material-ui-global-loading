@@ -1,6 +1,6 @@
 {
     "name": "material-ui-global-loading",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "hook of global loading base on material ui",
     "scripts": {
         "build": "rollup -c",
