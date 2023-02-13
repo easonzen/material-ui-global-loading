@@ -7,7 +7,7 @@ export default function SimpleBackdrop({ open }) {
             sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}
             open={open}
         >
-            <CircularProgress color="inherit" />
+            <CircularProgress color="primary" />
         </Backdrop>
     );
 }
