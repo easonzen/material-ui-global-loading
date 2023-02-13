@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Backdrop, CircularProgress } from '@mui/material/Backdrop';
+import { Backdrop, CircularProgress } from '@mui/material';
 
 export default function SimpleBackdrop({ open }) {
     return (
