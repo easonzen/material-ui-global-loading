@@ -41,12 +41,14 @@
         "@emotion/react": "^11.9.0",
         "@emotion/styled": "^11.8.1",
         "@mui/material": "^5.6.1",
+        "@rollup/plugin-typescript": "^11.0.0",
         "babel-loader": "^8.2.4",
         "prettier": "2.7.1",
         "react": "^18.0.0",
         "react-dom": "^18.0.0",
         "rollup": "^2.70.1",
         "rollup-plugin-babel": "^4.4.0",
-        "rollup-plugin-copy": "^3.4.0"
+        "rollup-plugin-copy": "^3.4.0",
+        "typescript": "^4.9.5"
     }
 }

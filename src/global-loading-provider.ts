@@ -1,4 +1,4 @@
-import React, { useState, useCallback, Fragment, useMemo } from 'react';
+import { useState, useCallback, Fragment, useMemo } from 'react';
 import GlobalLoadingContext from './global-loading-context';
 import GlobalLoading from './global-loading';
 
